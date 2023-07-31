@@ -1,0 +1,22 @@
+{
+  "name": "playwright-api",
+  "version": "1.0.0",
+  "description": "Playwright API",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwinvb/Playwright-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwinvb/Playwright-API/issues"
+  },
+  "homepage": "https://github.com/ashwinvb/Playwright-API#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.36.2",
+    "@types/jest": "^29.5.3"
+  }
+}

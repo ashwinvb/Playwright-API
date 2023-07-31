@@ -1,0 +1,4 @@
+*example*
+node_modules
+*report*
+package-lock.json
